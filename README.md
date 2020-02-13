@@ -62,3 +62,7 @@ Työnantajat voivat Github-tililtä nähdä
 - miten olet ratkaissut ongelmia.
 - koodin luettavuuden. 
 - dokumentaation (muista `readme.md`).
+
+## Lyhyesti
+
+**Näytä osaamisesi!**
