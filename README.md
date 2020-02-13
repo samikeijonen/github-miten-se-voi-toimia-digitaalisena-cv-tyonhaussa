@@ -26,3 +26,31 @@ Githubin koodit johti vuoden 2018 keväällä yhteydenottoon sähköpostilla, et
 Suurin syy työnantajan kiinnostukseen omalta osaltani oli [Gutenberg editorin](https://github.com/WordPress/gutenberg) rakentamiseen osallistuminen. Tämä on malliesimerkki missä tuhannet ihmiset ympäri maapalloa osallistuvat jollakin tavalla tuotteen tekemiseen. 
 
 Kontribuution ei tarvitse olla pelkkää koodaamista, vaan myös esimerkiksi testaaminen tai dokumentaation kirjoittaminen ovat yhtä tärkeitä.
+
+## Github digitaalisena portfoliona vinkkejä
+
+Monesti olen kuullut, että "en mie viitti sinne mitään laittaa, kun on niin paskaa koodia". No niinhän se on aluksi kaikilla. Mutta
+
+> parempi paskaa koodia Githubissa kuin ...
+
+Toinen mitä kuulee usein on: "Olen tässä rakentamassa uutta CMS:ää. Ihan tässä parin vuoden sisällä pitäs olla valmista, ja laitan koodin sitten julkiseksi Githubiin."
+
+Niin justiinsa. Et muuten tuota projektia tule koskaan saamaan valmiiksi ja jäälleen Github-tili loistaa tyhjyyttään.
+
+Kannattaa täten aloittaa jostakin pienestä.
+
+- Jos osallistut johonkin koulutukseen tai workshoppiin, niin julkaise harjoitustyöt Githubissa.
+- Omat verkkosivut, WordPress-teema tai vastaava.
+- Pieniä, mielellään toimivia, ohjelmia oli ohjelmointikieli mikä tahansa.
+- Muista lisätä `readme.md`-tiedosto, jotta muut voivat nopeasti vilkaista mistä on kyse.
+- Toisten töiden forkkaus, johon teet ensialkuun pieniä korjauksia.
+
+## Mitä hyötyä?
+
+Työpaikkahaastatteluissa kysytään yleensä peruskysymykset:
+
+> Osaatko koodata?
+
+> Minkälaista koodia olet tehnyt aiemmin?
+
+Github portfolion avulla ei tarvitse kuin lähettää linkki omalle tilille.
