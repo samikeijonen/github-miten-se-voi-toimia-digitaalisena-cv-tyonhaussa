@@ -13,7 +13,16 @@ Omat [Githubin koodini](https://github.com/samikeijonen?tab=repositories) vaihte
 - Esityksiä, kuten tämä.
 - Kokonaisia verkkosivustoja.
 - Pieniä testejä.
+- Hyödyllisiä (ainakin itselle) koodinpätkiä, joita voi käyttää uudelleen.
 - Forkkeja (mikä lie suomeksi?) muiden töistä.
 - jne.
 
 ## Github CV:nä
+
+Itse olen tiedostomatta rakentanut digitaalista CV:tä Githubiin. Kärjistettynä voisi todeta, että kaikki koodi mikä jokseenkin toimii, löytyy Githubista. Vaikka koodi ei toimisikaan vuosien jälkeen, niin ei siitä haittaakaan voi olla oman työuran kannalta. Näkyypähän yrittämisen meininki, jos ei mitään muuta.
+
+Githubin koodit johti vuoden 2018 keväällä yhteydenottoon sähköpostilla, että olenko kiinnostunut työskentelemään 10up-nimisessä yrityksessä. Kieltäydyin kohteliaasti muutaman kerran ennen kuin suostuin haastatteluihin. Ja muutaman käänteen jälkeen siirryin heille töihin.
+
+Suurin syy työnantajan kiinnostukseen omalta osaltani oli [Gutenberg editorin](https://github.com/WordPress/gutenberg) rakentamiseen osallistuminen. Tämä on malliesimerkki missä tuhannet ihmiset ympäri maapalloa osallistuvat jollakin tavalla tuotteen tekemiseen. 
+
+Kontribuution ei tarvitse olla pelkkää koodaamista, vaan myös esimerkiksi testaaminen tai dokumentaation kirjoittaminen ovat yhtä tärkeitä.
