@@ -54,3 +54,11 @@ Työpaikkahaastatteluissa kysytään yleensä peruskysymykset:
 > Minkälaista koodia olet tehnyt aiemmin?
 
 Github portfolion avulla ei tarvitse kuin lähettää linkki omalle tilille.
+
+Työnantajat voivat Github-tililtä nähdä
+
+- monipuolisen osaamisesi.
+- valmiita ratkaisuja. 
+- miten olet ratkaissut ongelmia.
+- koodin luettavuuden. 
+- dokumentaation (muista `readme.md`).
