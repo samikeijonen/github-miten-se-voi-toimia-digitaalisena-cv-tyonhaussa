@@ -7,3 +7,13 @@
 Käytännössä omalla koneella on kopio koodista, johon voi tehdä ensin paikallisesti muutoksia tai parannusehdotuksia. Näitä muutoksia voi liittää tai hylätä tarpeen mukaan niin sanottuun pääkehityshaaraan.
 
 Vastaavasti [Github](https://github.com/), [Gitlab](https://about.gitlab.com/) ja [Bitbucket](https://bitbucket.org/) ovat verkkosivustoja, jotka tarjoavat pilvipalvelun Git-versionhallintaa käyttäville projekteille, kuten verkkosivujen koodille.
+
+Omat [Githubin koodini](https://github.com/samikeijonen?tab=repositories) vaihtelevat aivan laidasta laitaan.
+
+- Esityksiä, kuten tämä.
+- Kokonaisia verkkosivustoja.
+- Pieniä testejä.
+- Forkkeja (mikä lie suomeksi?) muiden töistä.
+- jne.
+
+## Github CV:nä
